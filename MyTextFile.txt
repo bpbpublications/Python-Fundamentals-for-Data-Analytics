@@ -1,0 +1,3 @@
+This is my text file.
+This file is created for the demonstration purpose.
+Your are learning file operations by using this text file.
